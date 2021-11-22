@@ -2,9 +2,9 @@ from django.urls import path, include, re_path
 from django.contrib import admin
 from django.conf import settings
 from django.conf.urls.static import static
-admin.site.site_header = 'Wisfrags Education Private Limited - BlissedMaths SuperAdmin Panel'
-admin.site.site_title = 'Wisfrags Education'
-admin.site.index_title = 'Managed by Gaurav Malhotra, Pankaj Kumar & Ishwar Jangid'
+admin.site.site_header = ''
+admin.site.site_title = ''
+admin.site.index_title = ''
 
 urlpatterns = [
 
